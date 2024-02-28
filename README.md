@@ -71,7 +71,7 @@ A 365-day hacking journey for the entirety of 2024. This program requires dedica
 
 **Week 9 (February 26 - March 3) - Steganography**
 
-9. [YouTube|Stego](https://www.youtube.com/watch?app=desktop&v=u_luy52v7z4)
+9. [YouTube|Steganography](https://www.youtube.com/watch?app=desktop&v=u_luy52v7z4)
 
 **Week 10 (March 4 - March 10) - Web**
 
